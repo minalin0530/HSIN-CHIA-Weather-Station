@@ -6,3 +6,13 @@
 - GPS time and location
 - Bluetooth data transfer
 
+## Software language
+- Arduino
+  
+## Hardware
+- Arduino UNO
+- BH1750 for light sensing
+- DHT22 for temperature and humidity sensing
+- GY-GPS6MU2 for GPS
+- hc-06 for bluetooth
+
