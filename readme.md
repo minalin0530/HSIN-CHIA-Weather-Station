@@ -12,6 +12,7 @@
 - Arduino UNO Board
 - BH1750 for light sensing
 - DHT22 for temperature and humidity sensing
+- GUVA-S12SD for UV sensing
 - GY-NEO6MV for GPS
 - hc-06 for bluetooth
 
