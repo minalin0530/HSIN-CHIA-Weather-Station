@@ -1,5 +1,6 @@
 11220EECS340000 Satellite Electrical System Design Final Project
-# 女子天團 Weather Station
+# 氣象信佳號
+### presented by 女子天團
 - light sensing
 - UV sensing
 - Temperature and humidity sensing
